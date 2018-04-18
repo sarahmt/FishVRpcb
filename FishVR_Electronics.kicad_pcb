@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 0.1524)
+    (last_trace_width 0.5)
     (user_trace_width 0.1524)
     (trace_clearance 0.2)
     (zone_clearance 0.508)
@@ -88,7 +88,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ../Gerbers/))
+      (outputdirectory Drill/))
   )
 
   (net 0 "")
